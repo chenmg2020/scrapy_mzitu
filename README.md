@@ -7,4 +7,4 @@ scrapy学习记录--爬取妹子图
 
 ![效果图](https://github.com/chenmg2020/scrapy_mzitu/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
-遵守robot协议，从我做起，为对方的服务器考虑，适当增加DOWNLOAD_DELAY时间，切勿滥用！
+遵守robot协议，从我做起，适当增加DOWNLOAD_DELAY时间，切勿滥用！
